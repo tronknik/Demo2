@@ -1,1 +1,4 @@
+
 fixtoday file2
+file2 content
+line2
